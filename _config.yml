@@ -16,7 +16,7 @@ author :
   twitter : arjenpdevries
   feedburner : nil
 
-production_url : http://rubigdata.github.io/
+production_url : http://rubigdata.github.io/course
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
